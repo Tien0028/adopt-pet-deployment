@@ -35,4 +35,4 @@ lerna-debug.log*
 
 #Heroku
 npm-debug.log
-/*.env
+
